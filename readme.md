@@ -1,6 +1,6 @@
-##Práctica Git & GitHub
+## Práctica Git & GitHub
 
-###Ejercicio 1
+### Ejercicio 1
 
 **¿Qué comando utilizaste en el paso 11? ¿Por qué?**
 _git reset --hard HEAD~1_
